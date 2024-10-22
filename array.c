@@ -95,7 +95,7 @@ case 4:
 printf("Program exited.\n");
 exit(0);
 default:
-printf("Invalid choice, please try again.\n");
+printf("Invalid choice, please enter a valid choice.\n");
 }
 }
 return 0;
